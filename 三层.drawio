@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2021-02-08T02:58:34.095Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" version="14.2.9" etag="uahvvuMLyGe88S5Fj30v" type="github"><diagram id="H515ATuenXz4DKZMNqhw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-08T03:08:37.615Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="WrS1tXYcCrXP9N_lUfxe" version="14.2.9" type="github">
+  <diagram id="H515ATuenXz4DKZMNqhw" name="Page-1">
+    <mxGraphModel dx="866" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gJUjtrJpH0u9qO_PHgC_-8" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="310" as="sourcePoint" />
+            <mxPoint x="560" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJUjtrJpH0u9qO_PHgC_-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="214" width="220" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="gJUjtrJpH0u9qO_PHgC_-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gJUjtrJpH0u9qO_PHgC_-9">
+          <mxGeometry x="20" y="10" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gJUjtrJpH0u9qO_PHgC_-4" value="vrf" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gJUjtrJpH0u9qO_PHgC_-9">
+          <mxGeometry x="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gJUjtrJpH0u9qO_PHgC_-5" value="Eth" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gJUjtrJpH0u9qO_PHgC_-9">
+          <mxGeometry y="60" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJUjtrJpH0u9qO_PHgC_-13" value="10.10.10.2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gJUjtrJpH0u9qO_PHgC_-9">
+          <mxGeometry x="50" y="80" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gJUjtrJpH0u9qO_PHgC_-14" value="gobgp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="gJUjtrJpH0u9qO_PHgC_-9">
+          <mxGeometry x="70" y="150" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gJUjtrJpH0u9qO_PHgC_-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="220" width="220" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="gJUjtrJpH0u9qO_PHgC_-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gJUjtrJpH0u9qO_PHgC_-10">
+          <mxGeometry y="10" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gJUjtrJpH0u9qO_PHgC_-2" value="vbr" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gJUjtrJpH0u9qO_PHgC_-10">
+          <mxGeometry x="70" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gJUjtrJpH0u9qO_PHgC_-6" value="Eth" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gJUjtrJpH0u9qO_PHgC_-10">
+          <mxGeometry x="200" y="60" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJUjtrJpH0u9qO_PHgC_-12" value="10.10.10.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gJUjtrJpH0u9qO_PHgC_-10">
+          <mxGeometry x="130" y="80" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gJUjtrJpH0u9qO_PHgC_-17" value="公有云内部的bgp实例" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="gJUjtrJpH0u9qO_PHgC_-10">
+          <mxGeometry x="50" y="150" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gJUjtrJpH0u9qO_PHgC_-11" value="二层链路" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gJUjtrJpH0u9qO_PHgC_-15" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;shape=flexArrow;dashed=1;" edge="1" parent="1" source="gJUjtrJpH0u9qO_PHgC_-17" target="gJUjtrJpH0u9qO_PHgC_-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="360" as="sourcePoint" />
+            <mxPoint x="350" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJUjtrJpH0u9qO_PHgC_-16" value="bgp peer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="382.5" y="360" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gJUjtrJpH0u9qO_PHgC_-20" value="&lt;span style=&quot;text-align: left&quot;&gt;专利中的第1到第6步讲的是如何实现这个二层链路&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gJUjtrJpH0u9qO_PHgC_-21" value="&lt;span style=&quot;text-align: left&quot;&gt;专利中的第7步讲的是这个路由学习&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="320" y="404" width="190" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
